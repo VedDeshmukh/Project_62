@@ -1,0 +1,18 @@
+.links {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+#home{
+    text-align: center;
+}
+
+#GridView{
+    text-align: center;
+}
